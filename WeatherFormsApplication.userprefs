@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{ABDAF001-2E60-4EC9-A2A8-EBC1F99C6D56}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherFormsApplication/WeatherFormsApplication/View/MainPage.xaml.cs">
+    <Files>
+      <File FileName="WeatherFormsApplication/WeatherFormsApplication/View/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="WeatherFormsApplication/WeatherFormsApplication/ViewModel/MainPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="WeatherFormsApplication/WeatherFormsApplication/View/MainPage.xaml.cs" Line="20" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeatherFormsApplication.Android PreferredExecutionTarget="Android.Android_ARMv7a" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeatherFormsApplication.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0CE55CD0-1487-48B5-B70B-2440C8AC0E18" />
+  <MultiItemStartupConfigurations />
+</Properties>
